@@ -13,3 +13,7 @@ h2,h3,h4,h5{
 #Uno{
     background-color: #EDA8D8;
 }
+
+.not{
+    border: 2px solid #EDA8D8;
+}
