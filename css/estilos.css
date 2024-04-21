@@ -1,0 +1,15 @@
+nav a:hover{
+    text-decoration: underline;
+}
+
+nav{
+    background-color: #EDA8D8;
+}
+
+h2,h3,h4,h5{
+    font-family: arial;
+}
+
+#Uno{
+    background-color: #EDA8D8;
+}
