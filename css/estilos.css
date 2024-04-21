@@ -10,10 +10,23 @@ h2,h3,h4,h5{
     font-family: arial;
 }
 
+table h4:hover{
+    color: #EDA8D8;
+}
+
+footer{
+    padding: 10px;
+    background-color: #EDA8D8
+}
+
 #Uno{
     background-color: #EDA8D8;
 }
 
+#Dos img{
+    border-radius: 50%;
+}
+
 .not{
-    border: 2px solid #EDA8D8;
+    padding-left: 10px;
 }
