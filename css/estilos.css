@@ -33,6 +33,24 @@ footer{
     width: 70%;
 }
 
+#Cuatro{
+    margin-left:100px;
+}
+
+#Cuatro label{
+    padding-left: 240px;
+}
+
 .not{
     padding-left: 10px;
+}
+
+.cgal h5:hover{
+    color: #EDA8D8;
+}
+
+@media screen and (max-width:650px){
+    #Cuatro{
+        margin: 0;
+    }
 }
