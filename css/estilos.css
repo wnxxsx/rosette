@@ -16,6 +16,7 @@ table h4:hover{
 
 footer{
     padding: 10px;
+    padding-top:15px;
     background-color: #EDA8D8
 }
 
@@ -25,6 +26,11 @@ footer{
 
 #Dos img{
     border-radius: 50%;
+}
+
+#Tres{
+    margin-top: 20px;
+    width: 70%;
 }
 
 .not{
